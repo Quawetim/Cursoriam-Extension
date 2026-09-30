@@ -1,0 +1,16 @@
+{
+    "name": "BadPractice.Cursoriam.Extension",
+    "rootNamespace": "BadPractice.Cursoriam.Extension",
+    "references": [
+        "GUID:c4bfe71ae7f68624698a70dd80a58542"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

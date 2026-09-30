@@ -1,0 +1,12 @@
+{
+  "name": "studio.bad-practice.cursoriam.extension",
+  "version": "1.0.0",
+  "displayName": "Cursoriam Extension",
+  "author": {
+    "name": "Bad Practice Studio"
+  },
+  "unity": "2018.3",
+  "dependencies": {
+    "studio.bad-practice.cursoriam": "1.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "BadPractice.Cursoriam.Extension.Editor",
+    "rootNamespace": "BadPractice.Cursoriam.Extension.Editor",
+    "references": [
+        "GUID:00ad0a9b7642bb84cba519880e20cc94",
+        "GUID:c4bfe71ae7f68624698a70dd80a58542"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
